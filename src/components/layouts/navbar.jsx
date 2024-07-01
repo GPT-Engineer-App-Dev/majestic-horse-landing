@@ -31,7 +31,7 @@ function SharedLayout() {
             href="#"
             className="flex items-center gap-2 text-lg font-semibold md:text-base"
           >
-            <Horse className="h-6 w-6" />
+            <Menu className="h-6 w-6" />
             <span className="sr-only">Horse Haven</span>
           </a>
           <a
@@ -58,7 +58,7 @@ function SharedLayout() {
                 href="#"
                 className="flex items-center gap-2 text-lg font-semibold"
               >
-                <Horse className="h-6 w-6" />
+                <Menu className="h-6 w-6" />
                 <span className="sr-only">Horse Haven</span>
               </a>
               <a
